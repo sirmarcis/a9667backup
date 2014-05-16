@@ -1,0 +1,17 @@
+16 Polygon(s):  red blue green cyan purple orange white yellow magenta pink black tan teal olive brown grey
+5 Triangle(s):  red green cyan purple brown
+3 IsoscelesTriangle(s):  red green purple
+2 RightTriangle(s):  green cyan
+1 IsoscelesRightTriangle(s):  green
+1 EquilateralTriangle(s):  red
+8 Quadrilateral(s):  blue orange yellow magenta pink tan teal olive
+6 Trapezoid(s):  blue orange yellow magenta pink tan
+3 Kite(s):  blue yellow teal
+4 Parallelogram(s):  blue orange yellow magenta
+3 IsoscelesTrapezoid(s):  blue orange pink
+2 Rhombus(s):  blue yellow
+2 Rectangle(s):  blue orange
+1 Square(s):  blue
+4 Shape(s) with all equal sides:  red blue yellow grey
+4 Shape(s) with all equal angles:  red blue orange black
+6 Shape(s) with a right angle:  blue green cyan orange white teal

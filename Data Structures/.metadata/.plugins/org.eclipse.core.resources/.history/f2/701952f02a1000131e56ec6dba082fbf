@@ -1,0 +1,8 @@
+#include <iostream>
+
+int
+main(){
+	std::cout << "input the number of elements followed by those elements: ";
+	int arrSize;
+	return 0;
+}

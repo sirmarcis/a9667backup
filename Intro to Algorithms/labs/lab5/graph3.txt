@@ -1,0 +1,18 @@
+A B
+B C
+B E
+B D
+C F
+E B
+E F
+E G
+F C
+F H
+G H
+G J
+H K
+K L
+L J
+J I
+I G
+

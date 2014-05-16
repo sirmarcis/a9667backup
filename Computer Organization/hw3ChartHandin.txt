@@ -1,0 +1,6 @@
+#	PC	Stack sp (R29)	Regester $a0	Register $v0	Register $ra	Regerster 1	Register 2	You're code line # and code
+1	0	7ffff17c	1	0	0	7ffff180 ($a1)	7ffff188 ($a2)	90: syscall
+2	400168	7ffff17c	1.00E+13	8	400018	10 ($a1)	10008000 ($gp)	111: syscall
+3	4001b8	7ffff17c	1	8	400018	2 ($a1)	2b ($s0)	129: lw $a1, a1_op # load in the second argument integer into $a1 
+4	40024c	7ffff17c	1001008a	4	400018	2 ($a1)	7ffff188 ($a2)	169: syscall
+5	40028c	7ffff17c	1001008a	a	400038	10 ($a1)	a6e ($s0)	188: syscall

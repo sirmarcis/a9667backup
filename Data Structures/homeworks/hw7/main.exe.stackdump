@@ -1,0 +1,7 @@
+Exception: STATUS_ACCESS_VIOLATION at eip=68BD39ED
+eax=0028AC18 ebx=00000000 ecx=00000003 edx=0028ABB4 esi=00000000 edi=00409132
+ebp=00000000 esp=0028AB50 program=C:\Users\marava2\My Documents\Data Structures\homeworks\hw7\main.exe, pid 15788, thread main
+cs=0023 ds=002B es=002B fs=0053 gs=002B ss=002B
+Stack trace:
+Frame     Function  Args
+End of stack trace
